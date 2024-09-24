@@ -1,6 +1,6 @@
 namespace Hello
 {
     void welcome() {
-		    print("Hello world!\r\n");
-	  }
+        print("Hello world!\r\n");
+    }
 }
