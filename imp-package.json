@@ -1,5 +1,6 @@
 {
   "project": "imp-demo-hello",
+  "language": "angelscript",
   "dependencies": {},
   "sources": [
     "src"
